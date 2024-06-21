@@ -11,4 +11,5 @@ bakari
 soso
 shalva
 varlami
+vaxo
 
