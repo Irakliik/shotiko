@@ -11,4 +11,5 @@ bakari
 soso
 shalva
 tristanichi
+givi
 
